@@ -1,1 +1,1 @@
-baseurl: site.github.url
+baseurl: {{ site.github.url }}
